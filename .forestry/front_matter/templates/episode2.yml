@@ -1,4 +1,11 @@
 ---
 label: EPISODE2
 hide_body: false
-fields: []
+fields:
+- name: memo
+  type: text
+  config:
+    required: false
+  label: memo
+  description: anyyyyyyyyy
+  hidden: true
